@@ -1,0 +1,1908 @@
+cur_brand2,pre_brand2,zone2,edu2,children,pro2,enroll_type2,age_period,or01,ctr01,redem_rate1,cur_brand3
+MJN,MJN Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 3,0.68,0.04,0.75,1
+Nestle,Parent's Choice Stage 1,Others,High School,2,Ontario,Self Enrolled,Stage 3,0.1,0.07,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 3,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 3,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.25,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.25,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Nova Scotia,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,Others,Elementary School,2,New Brunswick,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.17,0.06,0.0,1
+Abbott,Abbott Stage1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Parent's Choice Stage 2,Others,Elementary School,3,Quebec,Self Enrolled,Stage 3,0.41,0.05,0.0,0
+MJN,Nestle Stage 1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.03,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.39,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.25,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,3,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 1,0.11,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,3,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Nestle Stage 2,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 2,0.23,0.03,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 3,0.21,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,3,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.03,0.03,0.0,0
+MJN,MJN Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Nestle Stage 1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,Nestle Stage 2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+President's Choice,Nestle Stage 2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.2,0.03,1.0,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.87,0.2,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.25,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage2,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Others,2,Ontario,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.31,0.12,0.0,1
+Abbott,Abbott Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.43,0.14,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.69,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+President's Choice,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Abbott Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.41,0.24,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Purchased,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.55,0.14,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.44,0.0,1.0,1
+Abbott,Abbott Stage2,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,3,Ontario,Self Enrolled,Stage 0,1.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage2,MJN,High School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,Abbott Stage2,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.82,0.23,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,Parent's Choice Stage 2,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Kirkland Stage 1,MJN,High School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,MJN,High School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 3,1.0,0.5,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.57,0.11,0.75,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.16,0.0,0.5,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.75,0.5,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 0,1.0,0.43,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 2,MJN,High School,2,Manitoba,Self Enrolled,Stage 2,0.3,0.2,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,3,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Abbott,Abbott Stage2,Others,Elementary School,3,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 1,0.25,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,2,Saskatchewan,Self Enrolled,Stage 1,0.33,0.11,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+Abbott,MJN Stage1,Others,High School,3,Alberta,Self Enrolled,Stage 0,0.33,0.05,0.0,0
+MJN,MJN Solutions,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.64,0.07,1.0,1
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.16,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage2,Others,Elementary School,0,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 1,0.12,0.04,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.05,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,British Columbia,Self Enrolled,Stage 1,0.22,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.92,0.2,0.0,1
+MJN,Abbott Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.78,0.11,0.25,1
+Nestle,Abbott Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.21,0.14,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,3,Quebec,Self Enrolled,Stage 1,0.67,0.67,0.0,1
+MJN,MJN Stage1,MJN,Others,3,Quebec,Self Enrolled,Stage 0,0.67,0.67,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.06,0.03,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 2,0.0,0.5,0.0,1
+Abbott,Abbott Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.59,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+Nestle,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.12,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.22,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,2,Manitoba,Self Enrolled,Stage 1,0.07,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Manitoba,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 0,0.74,0.0,0.0,0
+Nestle,MJN Stage1,MJN,Elementary School,2,Alberta,CoReg,Stage 0,0.71,0.14,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.28,0.17,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,1.0,1.0,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Abbott Stage2,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.16,0.04,0.0,1
+Abbott,Nestle Stage 2,MJN,High School,2,Alberta,CoReg,Stage 0,0.11,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.06,0.0,0.0,0
+MJN,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.24,0.03,0.25,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Abbott Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Nova Scotia,Self Enrolled,Stage 1,0.11,0.0,0.0,0
+Nestle,Abbott Stage2,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+Nestle,Kirkland Stage 1,Others,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,2,New Brunswick,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,CoReg,Stage 0,0.1,0.0,0.0,0
+MJN,Kirkland Stage 1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.14,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,MJN Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.25,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.28,0.0,0.75,1
+MJN,MJN Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.88,0.38,0.75,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Abbott Stage2,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.13,0.06,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,High School,2,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage2,MJN,Elementary School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,1.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Nova Scotia,Self Enrolled,Stage 1,0.93,0.2,0.0,1
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Northwest Territories,Self Enrolled,Stage 0,0.18,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Kirkland Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.57,0.05,1.0,1
+Nestle,MJN Stage1,MJN,Elementary School,2,Northwest Territories,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Abbott Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.75,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,2,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Abbott Specialty,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 1,0.18,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,1.0,0.22,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 1,0.55,0.03,0.0,0
+Abbott,Abbott Solutions,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.07,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Kirkland Stage 1,Others,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Nestle Stage 2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Kirkland Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,2,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,President's Choice Stage 2,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.13,0.03,1.0,0
+Abbott,Abbott Stage2,MJN,High School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,Parent's Choice Stage 2,Others,High School,3,Others,CoReg,Stage 3,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Kirkland Solutions,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Nestle Stage 1,Others,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,President's Choice Stage 2,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Specialty,MJN,High School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+President's Choice,President's Choice Stage 2,Others,Others,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.8,0.47,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,Abbott Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 3,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,2,Prince Edward Island,Self Enrolled,Stage 1,0.29,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+President's Choice,Parent's Choice Stage 2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Others,MJN Stage2,MJN,Others,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Nestle Stage 1,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Solutions,Others,Elementary School,1,Quebec,Others,Stage 0,0.0,0.0,0.0,0
+Nestle,Abbott Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,2,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,Kirkland Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Others,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Others,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Manitoba,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+Abbott,Nestle Stage 2,MJN,Elementary School,0,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Parent's Choice Stage 2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,President's Choice Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Others,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,Parent's Choice Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.5,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Ontario,CoReg,Stage 0,1.0,0.5,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Others,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,3,Quebec,CoReg,Stage 3,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.17,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,MJN,Elementary School,3,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,High School,3,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Nestle Stage 2,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,Nestle Stage 2,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Others,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Alberta,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Kirkland Stage 1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Kirkland Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,High School,0,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,3,British Columbia,Self Enrolled,Stage 0,0.86,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 2,0.94,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Others,Others,Elementary School,3,New Brunswick,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Others,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Others,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Others,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Abbott Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,High School,1,Yukon,CoReg,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,MJN Stage2,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,2,New Brunswick,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,Others,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Parent's Choice Stage 2,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Solutions,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,1,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Kirkland Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.22,0.0,0.0,1
+Abbott,Abbott Stage2,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.16,0.03,0.0,1
+Abbott,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Kirkland Solutions,MJN,High School,2,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.92,0.16,1.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Newfoundland & Labrador,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Kirkland Stage 1,MJN,High School,3,Ontario,Self Enrolled,Stage 0,0.67,0.33,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.19,0.0,0.0,0
+Others,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.13,0.07,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Others,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Specialty,MJN,Elementary School,1,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,0.5,0.0,0.0,1
+MJN,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,MJN Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+MJN,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.56,0.22,0.25,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,New Brunswick,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Others,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Nestle Stage 2,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,0,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,1.0,0.0,0.0,0
+Abbott,MJN Stage2,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Saskatchewan,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.08,0.375,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+President's Choice,Abbott Stage1,Others,Elementary School,3,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Abbott Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,1.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Others,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Others,3,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Others,MJN,Others,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 0,0.03,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,Others,Others,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.14,0.14,0.0,1
+MJN,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,1
+MJN,Nestle Stage 2,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.3,0.2,0.0,0
+MJN,Abbott Specialty,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Abbott Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.2,0.2,0.0,0
+MJN,MJN Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,3,New Brunswick,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.33,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Specialty,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.46,0.18,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,President's Choice Stage 2,MJN,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Others,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.67,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,1.0,0.33,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.25,0.13,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.25,0.0,0.0,1
+Parent's Choice,Kirkland Stage 1,Others,High School,2,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.8,0.2,0.0,0
+Parent's Choice,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Stage2,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Kirkland Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,Others,High School,2,Saskatchewan,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Newfoundland & Labrador,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.13,0.0,0
+President's Choice,President's Choice Stage 2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,MJN Stage1,Others,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Ontario,CoReg,Stage 0,0.28,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,MJN Stage2,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,2,Ontario,Self Enrolled,Stage 1,1.0,1.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,High School,1,Alberta,CoReg,Stage 0,0.08,0.0,0.0,0
+Nestle,MJN Stage2,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+President's Choice,Abbott Stage2,MJN,Elementary School,0,Alberta,CoReg,Stage 0,0.07,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Nestle Stage 1,Others,High School,1,Saskatchewan,CoReg,Stage 0,1.0,1.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,CoReg,Stage 0,1.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,New Brunswick,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,New Brunswick,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.11,0.06,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,Abbott Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.17,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,Others,High School,1,Ontario,CoReg,Stage 0,0.07,0.07,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.14,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.5,0.5,0.0,0
+MJN,Parent's Choice Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,Abbott Stage2,Others,Elementary School,0,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.33,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.13,0.13,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.07,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Others,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.33,0.33,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,1.0,0.14,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,Abbott Specialty,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.25,0.13,0.0,1
+Nestle,Abbott Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Newfoundland & Labrador,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.25,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.33,0.33,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.56,0.22,0.0,0
+MJN,Nestle Stage 2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.75,0.25,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.27,0.27,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,New Brunswick,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.25,0.25,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.12,0.06,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.23,0.15,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.3,0.2,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.25,0.13,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.17,0.17,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.36,0.07,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.33,0.22,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.56,0.22,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.14,0.14,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.75,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,1.0,0.8,0.0,1
+MJN,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,1.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Kirkland Stage 1,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.11,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,3,Alberta,CoReg,Stage 0,1.0,0.2,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.35,0.06,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,Others,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,1.0,0.43,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.5,0.17,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,Others,Elementary School,1,New Brunswick,CoReg,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Nestle Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.36,0.27,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.09,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.13,0.13,0.0,0
+MJN,Abbott Stage2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Others,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage2,MJN,High School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Nestle Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.4,0.4,0.0,1
+Abbott,Abbott Stage2,Others,Elementary School,0,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.05,0.0,0.0,0
+Abbott,Abbott Solutions,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.33,0.14,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,CoReg,Stage 0,0.08,0.08,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Others,1,Ontario,Self Enrolled,Stage 0,0.38,0.13,0.5,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,0,Quebec,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Others,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,MJN Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.6,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Alberta,CoReg,Stage 0,0.26,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.4,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.3,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.09,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.23,0.15,0.0,1
+Nestle,MJN Stage1,MJN,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,2,Manitoba,CoReg,Stage 0,0.05,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.47,0.33,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+Nestle,Nestle Solutions,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.08,0.04,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Saskatchewan,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,1.0,0.33,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.23,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,0,Ontario,CoReg,Stage 0,0.5,0.5,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,Abbott Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage2,MJN,High School,1,Saskatchewan,CoReg,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.33,0.0,0.0,1
+MJN,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.6,0.4,0.0,0
+Abbott,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Nestle Stage 2,Others,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,2,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,3,Alberta,CoReg,Stage 0,0.15,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,0.75,0.25,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,0,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.53,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,2,Alberta,Self Enrolled,Stage 1,0.88,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,MJN Stage1,MJN,Others,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.71,0.14,0.0,1
+Abbott,MJN Solutions,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.16,0.04,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,MJN Stage2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.14,0.14,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.67,0.17,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,2,Ontario,CoReg,Stage 0,1.0,1.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,2,Nova Scotia,CoReg,Stage 0,0.0,0.04,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.1,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,2,Quebec,CoReg,Stage 0,0.04,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Others,0,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.05,0.03,0.0,1
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,0,Prince Edward Island,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Manitoba,CoReg,Stage 0,0.93,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.91,0.13,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.06,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,New Brunswick,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.19,0.05,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,1,New Brunswick,CoReg,Stage 0,0.0,0.0,0.0,1
+President's Choice,President's Choice Stage 2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.06,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.25,0.19,0.0,1
+MJN,Abbott Stage2,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,Kirkland Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,High School,1,Ontario,CoReg,Stage 0,0.52,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.4,0.1,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.14,0.14,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.67,0.33,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+Abbott,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 2,1.0,1.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.04,0.04,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,0,Quebec,CoReg,Stage 0,0.14,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Others,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 1,1.0,0.55,0.0,1
+MJN,MJN Solutions,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.31,0.06,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.54,0.42,0.5,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.14,0.14,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.38,0.25,0.0,1
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,1,Prince Edward Island,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.63,0.11,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.67,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,New Brunswick,CoReg,Stage 0,0.85,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,New Brunswick,CoReg,Stage 0,0.19,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Others,1,Ontario,Self Enrolled,Stage 0,0.29,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.6,0.2,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.75,0.5,0.0,0
+President's Choice,President's Choice Stage 2,MJN,Others,1,Ontario,CoReg,Stage 0,1.0,0.67,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.04,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Parent's Choice,MJN Stage2,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 2,0.17,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.08,0.04,0.0,0
+MJN,MJN Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Specialty,MJN,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Ontario,CoReg,Stage 0,0.5,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.14,0.07,0.0,1
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.21,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.12,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.17,0.17,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,New Brunswick,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.33,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,1.0,0.33,0.0,1
+Abbott,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,1.0,0.33,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,High School,0,Newfoundland & Labrador,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.13,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.18,0.09,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.75,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,1.0,1.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.39,0.21,0.0,1
+MJN,MJN Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.14,0.07,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.5,0.0,0.0,0
+MJN,MJN Stage1,Others,Others,1,Newfoundland & Labrador,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.25,0.0,0.25,1
+MJN,MJN Solutions,MJN,Others,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.8,0.4,0.0,1
+MJN,MJN Specialty,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.25,0.25,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.71,0.07,0.0,1
+Nestle,MJN Solutions,MJN,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.83,0.17,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.15,0.04,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,British Columbia,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.22,0.04,0.25,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Saskatchewan,Self Enrolled,Stage 0,0.13,0.13,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.64,0.43,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Specialty,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.42,0.08,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Saskatchewan,CoReg,Stage 0,1.0,0.0,0.0,0
+Nestle,Nestle Solutions,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.23,0.03,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.5,0.07,0.0,1
+Abbott,Kirkland Stage 1,Others,Elementary School,3,Alberta,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,CoReg,Stage 0,0.17,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.95,0.48,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.35,0.06,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.67,0.0,1
+MJN,Nestle Stage 1,Others,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+President's Choice,Nestle Stage 2,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,0,Manitoba,Self Enrolled,Stage 0,0.21,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 1,0.14,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.44,0.22,0.0,1
+Abbott,Abbott Stage1,MJN,Others,1,Manitoba,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,CoReg,Stage 2,1.0,0.0,0.0,0
+MJN,Kirkland Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 0,0.64,0.09,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,Elementary School,0,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,British Columbia,CoReg,Stage 0,0.27,0.04,0.25,0
+MJN,MJN Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.05,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.35,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.07,0.07,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,CoReg,Stage 3,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.5,0.17,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.14,0.03,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,New Brunswick,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,High School,1,Alberta,CoReg,Stage 0,0.25,0.0,0.0,0
+Nestle,MJN Stage2,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,British Columbia,Self Enrolled,Stage 1,0.13,0.07,0.0,0
+MJN,MJN Stage1,Others,High School,0,New Brunswick,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,MJN Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Others,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.19,0.07,0.0,1
+MJN,MJN Solutions,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.44,0.11,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.57,0.14,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.52,0.38,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Others,1,Ontario,Self Enrolled,Stage 0,0.68,0.05,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.35,0.05,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.07,0.04,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.25,0.08,0.0,0
+Nestle,MJN Stage2,Others,High School,1,Ontario,Self Enrolled,Stage 0,1.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.16,0.04,0.0,1
+Nestle,Kirkland Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Others,1,Alberta,CoReg,Stage 1,0.0,0.0,0.0,0
+President's Choice,Kirkland Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.38,0.1,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.04,0.04,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.14,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,1.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.29,0.04,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.63,0.25,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Manitoba,Self Enrolled,Stage 0,1.0,1.0,0.0,1
+MJN,Kirkland Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.54,0.0,0.25,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.73,0.31,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.18,0.06,0.0,1
+Nestle,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Solutions,Others,High School,2,Quebec,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage2,Others,High School,0,Others,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,Elementary School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.0,1
+MJN,Abbott Stage2,Others,High School,1,Ontario,CoReg,Stage 0,0.21,0.13,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.22,0.11,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.39,0.07,0.0,1
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.1,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Others,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,CoReg,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,2,British Columbia,Self Enrolled,Stage 0,0.09,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,3,Saskatchewan,Self Enrolled,Stage 0,0.65,0.15,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.33,0.08,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,CoReg,Stage 0,0.73,0.15,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,CoReg,Stage 0,0.36,0.14,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.53,0.06,0.25,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.63,0.26,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 3,0.07,0.07,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.81,0.08,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.08,0.0,0.75,0
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.21,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.27,0.03,0.0,0
+MJN,Abbott Specialty,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.9,0.17,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Parent's Choice,MJN Stage2,MJN,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.13,0.0,0.25,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,New Brunswick,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.24,0.05,0.0,0
+MJN,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Nova Scotia,CoReg,Stage 0,0.91,0.52,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,CoReg,Stage 0,0.09,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Others,0,Ontario,CoReg,Stage 0,0.05,0.05,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Manitoba,CoReg,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.2,0.2,0.0,0
+MJN,MJN Solutions,MJN,High School,3,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.3,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.08,0.0,0.0,1
+Abbott,MJN Solutions,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.67,0.63,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.43,0.04,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.95,0.95,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,Elementary School,1,Alberta,CoReg,Stage 0,0.25,0.13,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.28,0.2,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.16,0.08,0.0,0
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.9,0.07,0.5,1
+MJN,Nestle Stage 2,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.33,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Others,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Others,1,Ontario,Self Enrolled,Stage 0,0.18,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,1.0,0.0,0.0,0
+Nestle,MJN Stage1,Others,High School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,3,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,MJN Stage2,Others,High School,1,Quebec,Self Enrolled,Stage 0,1.0,0.33,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+President's Choice,MJN Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Parent's Choice,Nestle Stage 2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.04,0.0,0.0,0
+President's Choice,President's Choice Stage 2,Others,High School,2,Others,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.42,0.04,0.5,1
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,1,Saskatchewan,CoReg,Stage 0,0.25,0.0,0.0,1
+Nestle,Nestle Stage 2,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,3,Alberta,CoReg,Stage 0,0.08,0.02,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.4,0.25,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,0.5,0.2,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,0,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.22,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.1,0.03,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.07,0.04,0.25,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.96,0.08,0.75,0
+MJN,MJN Stage1,Others,High School,1,Others,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.05,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.04,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Others,Abbott Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.57,0.36,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.67,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 0,0.19,0.04,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 0,0.18,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.78,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.14,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.21,0.21,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.21,0.14,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Kirkland Stage 1,Others,Others,1,Saskatchewan,Self Enrolled,Stage 1,0.14,0.07,0.0,0
+MJN,Abbott Solutions,Others,High School,1,Saskatchewan,Self Enrolled,Stage 0,0.36,0.14,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,1.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.65,0.35,0.0,0
+Abbott,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.14,0.0,0.0,0
+MJN,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.59,0.37,0.5,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.2,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,0,Manitoba,Self Enrolled,Stage 0,0.27,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.36,0.29,1.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.11,0.05,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.54,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.17,0.08,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.19,0.0,0.0,0
+Nestle,Kirkland Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,CoReg,Stage 0,0.05,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.56,0.17,0.0,1
+Abbott,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.82,0.09,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.05,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Quebec,CoReg,Stage 0,0.33,0.0,0.0,0
+MJN,Nestle Stage 1,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 0,0.13,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.12,0.08,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.08,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Saskatchewan,Self Enrolled,Stage 0,1.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.57,0.29,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.58,0.16,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Others,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,1,Others,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.2,0.1,0.0,1
+Nestle,Nestle Solutions,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.63,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.14,0.14,0.0,1
+MJN,MJN Stage1,Others,Elementary School,1,Saskatchewan,Self Enrolled,Stage 0,0.23,0.1,0.0,1
+MJN,MJN Solutions,MJN,High School,0,Newfoundland & Labrador,Self Enrolled,Stage 1,0.13,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.44,0.32,0.75,1
+MJN,Others,Others,Others,3,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,MJN,High School,1,Quebec,CoReg,Stage 1,0.17,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Quebec,CoReg,Stage 1,0.33,0.11,0.5,0
+Nestle,Abbott Solutions,MJN,High School,3,Ontario,CoReg,Stage 1,0.5,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.48,0.08,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.6,0.2,0.0,1
+MJN,Abbott Stage1,MJN,High School,2,Saskatchewan,Self Enrolled,Stage 0,0.2,0.03,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.05,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.27,0.0,0.0,1
+Abbott,MJN Stage1,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.17,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.06,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Others,1,Quebec,Self Enrolled,Stage 0,0.21,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.8,0.4,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Ontario,CoReg,Stage 1,0.11,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.59,0.33,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,1
+Abbott,Abbott Specialty,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.75,0.31,0.0,0
+Nestle,MJN Stage1,Others,Elementary School,3,Ontario,CoReg,Stage 0,0.57,0.09,1.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,CoReg,Stage 0,0.04,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.94,0.69,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.14,0.0,1.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 0,0.05,0.0,0.0,1
+Abbott,MJN Stage2,MJN,High School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.59,0.0,1.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.18,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.91,0.26,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.12,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Others,Abbott Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.27,0.0,0.0,0
+Nestle,Nestle Stage 2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.5,0.03,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Others,Abbott Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.03,0.03,1.0,0
+MJN,MJN Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 0,0.23,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,British Columbia,Self Enrolled,Stage 0,0.27,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.25,0.08,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.25,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Specialty,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,1.0,0.33,0.0,1
+Nestle,Abbott Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.39,0.22,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.5,0
+MJN,MJN Stage1,MJN,Elementary School,0,Newfoundland & Labrador,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,2,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,Abbott Stage2,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.33,0.17,0.0,1
+Abbott,MJN Stage2,Others,High School,3,Quebec,Self Enrolled,Stage 0,0.31,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.16,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.31,0.19,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.17,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Abbott Stage2,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.62,0.24,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.5,0.39,0.75,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.32,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.07,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.25,0.13,0.0,1
+MJN,Abbott Solutions,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.2,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.33,0.11,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.29,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Newfoundland & Labrador,Self Enrolled,Stage 0,0.04,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.5,0.33,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Newfoundland & Labrador,Self Enrolled,Stage 1,0.07,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.63,0.25,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,0.27,0.09,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,0,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,1.0,0.5,0.75,0
+MJN,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 0,1.0,0.23,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.1,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Saskatchewan,CoReg,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.24,0.03,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.03,0.03,0.0,0
+Nestle,Nestle Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.11,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Solutions,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.07,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 0,0.19,0.06,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Nova Scotia,Self Enrolled,Stage 0,0.77,0.07,0.0,1
+Nestle,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.91,0.3,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 1,0.2,0.2,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.38,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.05,0.0,0.0,0
+Nestle,MJN Stage2,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.88,0.12,0.0,0
+Nestle,Nestle Solutions,Others,Elementary School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Others,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.23,0.04,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 1,0.16,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.72,0.32,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.5,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.14,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.3,0.06,1.0,0
+Nestle,Nestle Stage 1,MJN,Others,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.72,0.21,0.0,1
+MJN,MJN Stage2,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,CoReg,Stage 1,0.29,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.29,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.17,0.08,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.03,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Others,1,Alberta,Self Enrolled,Stage 0,0.53,0.3,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.03,0.0,1.0,1
+MJN,MJN Solutions,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.19,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Manitoba,Self Enrolled,Stage 1,0.25,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.17,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,1.0,0.75,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,1.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.1,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.44,0.28,0.0,1
+MJN,MJN Solutions,Others,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.1,0.1,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.81,0.26,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,Others,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,1.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.16,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.08,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.18,0.03,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.3,0.2,0.0,1
+Abbott,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.07,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.55,0.33,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.21,0.03,0.5,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Others,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.22,0.0,0.75,0
+Nestle,MJN Solutions,Others,High School,1,Quebec,CoReg,Stage 0,0.22,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.29,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.72,0.67,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.1,0.0,0.75,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.33,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,3,Alberta,CoReg,Stage 0,0.23,0.08,0.75,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Manitoba,Self Enrolled,Stage 1,0.17,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.24,0.03,1.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Ontario,CoReg,Stage 0,0.04,0.0,0.0,1
+Nestle,Abbott Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.77,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.3,0.04,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Nova Scotia,Self Enrolled,Stage 0,0.9,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,3,Manitoba,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Solutions,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.5,0.25,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.42,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.16,0.09,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.24,0.06,0.0,0
+Nestle,MJN Stage2,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,0.25,0.25,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,High School,2,New Brunswick,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Others,Abbott Stage2,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.16,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.04,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Manitoba,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.09,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage2,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,0,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,High School,3,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 1,1.0,0.5,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.13,0.03,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,CoReg,Stage 0,0.31,0.23,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.15,0.04,0.75,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.06,0.0,0.0,0
+Nestle,MJN Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.8,0.37,0.0,0
+Nestle,Nestle Stage 1,Others,High School,2,Quebec,CoReg,Stage 0,0.04,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,1
+Abbott,Kirkland Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+President's Choice,President's Choice Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.37,0.23,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.5,0.12,0.0,0
+MJN,MJN Stage1,Others,High School,0,Ontario,Self Enrolled,Stage 1,0.3,0.05,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.26,0.11,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Saskatchewan,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.2,0.07,0.0,0
+MJN,MJN Stage1,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Others,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.34,0.03,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.38,0.08,0.375,0
+Parent's Choice,Parent's Choice Stage 1,Others,High School,2,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.25,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 0,0.17,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 0,0.33,0.25,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Alberta,CoReg,Stage 1,0.6,0.13,0.0,1
+MJN,Nestle Stage 1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.06,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.78,0.04,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.13,0.07,0.75,0
+Nestle,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage2,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.16,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Newfoundland & Labrador,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Others,0,Alberta,Self Enrolled,Stage 0,1.0,0.2,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.89,0.52,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.47,0.17,0.0,1
+Parent's Choice,Abbott Stage1,Others,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.12,0.06,0.5,0
+Nestle,Nestle Stage 1,MJN,High School,2,Alberta,Self Enrolled,Stage 0,0.14,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.7,0.07,1.0,1
+Abbott,MJN Stage2,MJN,High School,2,Ontario,CoReg,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.53,0.0,0.25,1
+MJN,Nestle Stage 1,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.61,0.13,0.0,1
+Nestle,Nestle Stage 1,Others,High School,2,Ontario,Self Enrolled,Stage 0,0.25,0.0,0.25,0
+MJN,MJN Stage1,Others,Elementary School,2,Manitoba,Self Enrolled,Stage 1,0.83,0.25,0.25,1
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.12,0.0,0.0,0
+Others,Abbott Stage1,MJN,Elementary School,2,Alberta,CoReg,Stage 0,0.03,0.03,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage2,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.1,0.03,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.52,0.33,0.75,1
+MJN,MJN Stage1,Others,High School,1,Quebec,CoReg,Stage 0,0.0,0.0,0.5,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.33,0.15,0.75,1
+MJN,MJN Stage1,Others,Elementary School,0,Saskatchewan,Self Enrolled,Stage 1,0.25,0.08,0.5,1
+Abbott,Abbott Solutions,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.0,0.0,0.75,0
+MJN,MJN Stage1,Others,High School,0,Others,Self Enrolled,Stage 3,0.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Kirkland Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.8,0.05,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Alberta,Self Enrolled,Stage 1,0.86,0.19,0.5,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.07,0.14,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.48,0.05,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,British Columbia,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.03,0.03,1.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.03,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Saskatchewan,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Saskatchewan,CoReg,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.64,0.18,0.25,1
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.61,0.12,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.15,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.37,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,0,Others,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage2,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.72,0.0,0.75,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.5,0
+MJN,MJN Stage2,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.91,0.34,0.0,1
+Nestle,Nestle Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.1,0.0,0.5,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.4,0.0,0.0,0
+Parent's Choice,MJN Stage2,MJN,High School,2,Alberta,CoReg,Stage 0,0.11,0.04,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.86,0.14,0.5,1
+MJN,MJN Stage1,MJN,High School,1,Newfoundland & Labrador,Self Enrolled,Stage 1,0.48,0.14,1.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 1,0.89,0.11,1.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.12,0.08,0.0,0
+MJN,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,1.0,0.67,1.0,1
+MJN,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.48,0.17,0.5,1
+Abbott,MJN Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.17,0.0,1.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.8,0.55,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,1.0,0.21,0.5,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,1.0,0.33,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.11,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,2,Ontario,CoReg,Stage 0,0.1,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Others,0,Alberta,Self Enrolled,Stage 1,0.89,0.06,0.75,1
+Others,Abbott Stage2,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.03,0.03,0.0,0
+MJN,MJN Solutions,Others,High School,1,Quebec,Self Enrolled,Stage 1,1.0,0.14,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.48,0.04,1.0,0
+Others,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.03,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.48,0.26,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.24,0.08,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.11,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.96,0.44,1.0,1
+Abbott,Abbott Stage1,Others,High School,1,Saskatchewan,Self Enrolled,Stage 1,0.61,0.22,0.25,0
+MJN,MJN Solutions,MJN,High School,0,Ontario,Self Enrolled,Stage 1,0.24,0.05,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.39,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+MJN,MJN Solutions,Others,Elementary School,0,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,Nestle Stage 1,MJN,High School,1,Manitoba,CoReg,Stage 1,1.0,1.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 0,0.3,0.07,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.42,0.23,0.0,1
+MJN,MJN Stage2,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.5,0.25,0.25,1
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,1.0,0.53,0.5,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.5,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 0,0.4,0.12,0.25,1
+Abbott,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 1,0.39,0.06,0.75,0
+MJN,MJN Stage1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.46,0.0,1.0,1
+MJN,MJN Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.18,0.18,0.25,1
+MJN,MJN Solutions,Others,Others,3,New Brunswick,Self Enrolled,Stage 1,0.9,0.52,0.25,1
+Nestle,Nestle Stage 1,MJN,Elementary School,2,Manitoba,Self Enrolled,Stage 0,0.31,0.12,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 3,0.05,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.07,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.13,0.09,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Others,3,Quebec,CoReg,Stage 3,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.62,0.1,0.0,0
+Nestle,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.77,0.2,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,1,Ontario,CoReg,Stage 1,0.38,0.0,0.0,0
+Abbott,Abbott Solutions,MJN,High School,2,Nova Scotia,CoReg,Stage 1,0.25,0.25,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.02,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.72,0.13,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.1,0.1,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,1,Ontario,CoReg,Stage 0,0.07,0.07,0.0,0
+Abbott,MJN Solutions,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.43,0.48,0.5,0
+Abbott,Abbott Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 0,0.16,0.0,0.0,0
+MJN,Abbott Specialty,Others,Elementary School,1,Quebec,CoReg,Stage 0,0.67,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,2,Ontario,CoReg,Stage 1,0.95,0.1,0.25,1
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,CoReg,Stage 1,0.95,0.29,0.0,0
+Abbott,MJN Stage2,MJN,Elementary School,1,Ontario,CoReg,Stage 1,1.0,0.05,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.36,0.09,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,2,Ontario,CoReg,Stage 0,0.16,0.04,0.0,1
+MJN,MJN Stage2,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.65,0.09,0.25,1
+MJN,MJN Stage1,Others,Others,3,Quebec,CoReg,Stage 1,0.21,0.04,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,3,Ontario,CoReg,Stage 0,0.09,0.04,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 0,0.88,0.63,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.19,0.07,0.0,0
+Abbott,Abbott Stage1,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 0,0.74,0.37,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Alberta,CoReg,Stage 0,0.15,0.08,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.22,0.04,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,CoReg,Stage 0,0.48,0.16,1.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Alberta,CoReg,Stage 0,0.43,0.0,0.0,0
+Others,Abbott Stage1,MJN,High School,1,Manitoba,CoReg,Stage 0,0.82,0.07,0.75,0
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 1,0.71,0.14,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 0,0.31,0.07,0.0,0
+Abbott,Kirkland Stage 1,MJN,Elementary School,1,Manitoba,CoReg,Stage 0,0.03,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Quebec,CoReg,Stage 0,0.48,0.1,0.75,1
+MJN,MJN Stage1,MJN,High School,2,British Columbia,CoReg,Stage 0,0.93,0.21,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 0,0.21,0.04,0.0,1
+Abbott,Nestle Solutions,Others,High School,0,Saskatchewan,CoReg,Stage 0,0.31,0.06,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.17,0.03,0.0,0
+Others,Abbott Stage2,Others,High School,3,Ontario,Self Enrolled,Stage 0,0.03,0.0,0.25,0
+MJN,MJN Stage1,MJN,Elementary School,1,Alberta,Self Enrolled,Stage 0,0.37,0.07,1.0,1
+Abbott,Others,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.1,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 1,1.0,0.3,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,0,Ontario,CoReg,Stage 1,0.2,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,0,Ontario,CoReg,Stage 1,0.46,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 1,0.85,0.08,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 1,1.0,0.14,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.64,0.21,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,2,New Brunswick,CoReg,Stage 1,0.24,0.06,0.0,0
+MJN,MJN Solutions,MJN,Elementary School,0,Ontario,CoReg,Stage 1,0.11,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,0,Quebec,CoReg,Stage 1,0.24,0.06,0.75,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Others,MJN Solutions,MJN,High School,2,Alberta,CoReg,Stage 0,0.15,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.32,0.27,1.0,1
+Abbott,Parent's Choice Stage 2,Others,High School,1,Ontario,CoReg,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 2,0.71,0.0,0.0,1
+Abbott,MJN Stage1,MJN,High School,2,Ontario,CoReg,Stage 1,0.67,0.0,1.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 1,0.17,0.0,0.0,0
+Abbott,Nestle Stage 2,MJN,Elementary School,1,Ontario,CoReg,Stage 1,1.0,1.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,2,New Brunswick,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Manitoba,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.83,0.5,0.75,1
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.24,0.17,0.5,0
+President's Choice,President's Choice Stage 2,MJN,Elementary School,0,Ontario,CoReg,Stage 3,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,MJN,Elementary School,1,Alberta,CoReg,Stage 3,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 1,0.57,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Quebec,CoReg,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,CoReg,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,CoReg,Stage 1,0.0,0.0,0.25,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,2,New Brunswick,CoReg,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,0,Quebec,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,Others,High School,2,Ontario,CoReg,Stage 1,1.0,0.22,0.75,1
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Manitoba,CoReg,Stage 0,0.93,0.46,0.75,1
+MJN,MJN Stage1,Others,High School,1,Others,Self Enrolled,Stage 1,1.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.13,0.0,0.0,0
+Abbott,MJN Stage2,MJN,High School,0,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Quebec,Self Enrolled,Stage 1,0.75,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,1.0,0.33,0.0,1
+MJN,Abbott Solutions,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.83,0.1,1.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.4,0.27,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.93,0.54,0.25,1
+Abbott,Abbott Solutions,Others,High School,0,New Brunswick,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Quebec,Self Enrolled,Stage 0,0.23,0.03,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Quebec,Self Enrolled,Stage 0,0.29,0.13,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,1.0,1.0,0.0,1
+Others,Abbott Stage1,Others,High School,1,Prince Edward Island,CoReg,Stage 0,0.1,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Nova Scotia,CoReg,Stage 0,0.07,0.03,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.04,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,2,Ontario,Self Enrolled,Stage 1,0.86,0.23,0.0,1
+MJN,MJN Solutions,MJN,High School,1,Nova Scotia,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,MJN,Elementary School,1,Nova Scotia,Self Enrolled,Stage 0,0.61,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,MJN Stage2,Others,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Others,Abbott Stage1,MJN,High School,0,Quebec,Self Enrolled,Stage 1,0.53,0.07,1.0,0
+Abbott,Abbott Stage2,MJN,Elementary School,2,Saskatchewan,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,0,New Brunswick,CoReg,Stage 1,0.22,0.0,1.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.0,0.05,0.0,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,CoReg,Stage 1,0.75,0.25,0.0,0
+Abbott,Abbott Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 3,1.0,0.25,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Saskatchewan,CoReg,Stage 0,0.57,0.11,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Alberta,Self Enrolled,Stage 1,0.17,0.0,0.0,0
+MJN,Nestle Stage 2,Others,High School,0,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,CoReg,Stage 1,1.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Nova Scotia,Self Enrolled,Stage 1,1.0,0.18,0.0,1
+Nestle,Nestle Solutions,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.28,0.14,0.0,0
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Others,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.22,0.04,0.0,0
+Nestle,MJN Stage2,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,Abbott Stage2,Others,High School,2,Ontario,Self Enrolled,Stage 1,0.83,0.33,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Nova Scotia,Self Enrolled,Stage 0,0.17,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,British Columbia,Self Enrolled,Stage 1,0.64,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.6,0.0,1.0,1
+MJN,MJN Stage1,MJN,High School,3,Ontario,Self Enrolled,Stage 3,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,1,Alberta,Self Enrolled,Stage 1,0.75,0.25,1.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,0,Manitoba,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Others,Abbott Solutions,MJN,High School,1,Alberta,Self Enrolled,Stage 0,0.36,0.14,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Quebec,CoReg,Stage 2,0.0,0.0,0.0,0
+Nestle,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 1,0.19,0.14,0.0,0
+Abbott,Abbott Stage1,Others,High School,0,Ontario,CoReg,Stage 1,0.07,0.07,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,0,Saskatchewan,CoReg,Stage 1,0.47,0.32,0.0,0
+MJN,Nestle Stage 1,MJN,Elementary School,0,British Columbia,CoReg,Stage 0,0.0,0.0,1.0,1
+MJN,Abbott Specialty,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.72,0.52,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Abbott,MJN Stage2,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Others,1,Ontario,CoReg,Stage 1,0.91,0.18,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,CoReg,Stage 1,0.06,0.12,0.0,1
+Abbott,MJN Stage1,Others,Elementary School,2,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Solutions,MJN,High School,0,Manitoba,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,High School,1,British Columbia,Self Enrolled,Stage 0,0.46,0.0,0.0,0
+MJN,Nestle Stage 2,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.75,0.25,1.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Alberta,CoReg,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,Elementary School,3,Ontario,Self Enrolled,Stage 1,1.0,0.0,0.0,1
+Abbott,Nestle Stage 2,MJN,Elementary School,2,Alberta,CoReg,Stage 0,0.57,0.14,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,CoReg,Stage 1,0.32,0.11,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.54,0.21,0.75,1
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 0,0.17,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.2,0.07,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 1,0.33,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Alberta,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,Abbott Stage1,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Prince Edward Island,Self Enrolled,Stage 1,0.67,0.0,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,1.0,0.33,0.5,1
+MJN,MJN Solutions,MJN,High School,1,Manitoba,Self Enrolled,Stage 1,0.42,0.05,0.0,1
+Nestle,Nestle Stage 1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,3,Quebec,Self Enrolled,Stage 1,1.0,0.0,0.5,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 0,0.62,0.1,0.0,1
+Abbott,MJN Stage1,Others,High School,1,Others,Self Enrolled,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,3,British Columbia,Self Enrolled,Stage 1,0.81,0.24,1.0,1
+Abbott,Abbott Stage1,MJN,High School,1,Manitoba,CoReg,Stage 1,0.4,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,Others,High School,1,Ontario,CoReg,Stage 2,0.67,0.0,0.0,1
+Parent's Choice,MJN Stage1,MJN,Elementary School,0,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,2,Alberta,CoReg,Stage 1,1.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Quebec,CoReg,Stage 2,0.0,0.0,0.0,1
+Parent's Choice,Abbott Stage1,Others,High School,0,Quebec,CoReg,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.12,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,2,Quebec,CoReg,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage2,Others,Elementary School,1,Quebec,CoReg,Stage 1,0.0,0.0,0.75,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,CoReg,Stage 1,0.08,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,Elementary School,1,New Brunswick,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,Abbott Stage2,Others,High School,1,Saskatchewan,Self Enrolled,Stage 2,0.85,0.31,0.0,1
+MJN,MJN Stage1,MJN,High School,2,British Columbia,CoReg,Stage 1,0.11,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,Ontario,Self Enrolled,Stage 1,0.95,0.86,0.5,1
+Others,Abbott Stage1,Others,Others,0,Ontario,Self Enrolled,Stage 1,0.29,0.05,0.0,0
+Abbott,Abbott Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.85,0.45,0.75,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,CoReg,Stage 3,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 1,0.33,0.33,0.0,1
+Nestle,Nestle Stage 1,Others,Elementary School,2,Quebec,CoReg,Stage 0,0.62,0.03,1.0,0
+Nestle,Nestle Stage 1,MJN,Others,1,British Columbia,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,Others,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.5,0.0,0.5,1
+Abbott,Abbott Stage1,MJN,Elementary School,2,Alberta,Self Enrolled,Stage 0,0.36,0.09,0.5,0
+MJN,Kirkland Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 3,1.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,1.0,1.0,0.75,1
+Abbott,Abbott Stage1,Others,Elementary School,1,New Brunswick,Self Enrolled,Stage 1,0.22,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,2,Saskatchewan,Self Enrolled,Stage 1,1.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,High School,2,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,Nestle Stage 1,Others,Elementary School,1,Quebec,Self Enrolled,Stage 0,0.81,0.13,0.25,1
+Abbott,Abbott Stage1,Others,High School,1,Ontario,Self Enrolled,Stage 1,0.1,0.0,0.0,0
+Abbott,Abbott Stage1,MJN,High School,2,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,British Columbia,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,1,British Columbia,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,1,Saskatchewan,Self Enrolled,Stage 1,0.47,0.13,0.0,0
+Nestle,Nestle Stage 1,MJN,Elementary School,1,Ontario,CoReg,Stage 1,1.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Nova Scotia,CoReg,Stage 1,0.5,0.0,0.0,0
+MJN,MJN Stage1,Others,High School,1,New Brunswick,Self Enrolled,Stage 1,0.25,0.25,0.5,1
+MJN,MJN Stage1,MJN,High School,3,Alberta,Self Enrolled,Stage 0,0.0,0.0,0.0,1
+Abbott,Abbott Stage1,Others,Elementary School,3,Ontario,CoReg,Stage 1,0.0,0.0,0.0,0
+Parent's Choice,Parent's Choice Stage 1,Others,High School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Abbott,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,Others,High School,1,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,1,Ontario,CoReg,Stage 3,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,0,Ontario,CoReg,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,2,Quebec,CoReg,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Solutions,MJN,Elementary School,0,Quebec,CoReg,Stage 1,0.0,0.0,0.0,0
+Nestle,Nestle Stage 1,MJN,High School,2,Ontario,Self Enrolled,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,0,Quebec,Self Enrolled,Stage 1,0.0,0.0,0.0,1
+Nestle,Nestle Stage 2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 0,0.0,0.0,0.25,0
+Abbott,Abbott Stage1,Others,Elementary School,3,Quebec,CoReg,Stage 1,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,Elementary School,1,Manitoba,CoReg,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Solutions,MJN,Elementary School,1,Quebec,Self Enrolled,Stage 1,0.56,0.0,0.5,1
+Others,Abbott Stage1,Others,High School,2,Ontario,CoReg,Stage 2,0.0,0.0,0.0,0
+Others,Abbott Stage1,Others,Elementary School,0,Saskatchewan,CoReg,Stage 1,0.0,0.0,0.0,0
+Abbott,Abbott Solutions,Others,Elementary School,1,Quebec,Self Enrolled,Stage 2,0.0,0.0,0.0,0
+MJN,MJN Stage1,MJN,High School,1,British Columbia,Self Enrolled,Stage 1,0.67,0.0,0.25,1
+MJN,MJN Stage2,MJN,Elementary School,1,Ontario,Self Enrolled,Stage 2,0.0,0.0,0.0,1
+MJN,MJN Stage1,MJN,Elementary School,3,Ontario,Self Enrolled,Stage 0,0.6,0.0,0.0,1
