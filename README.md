@@ -1,6 +1,6 @@
 # Consumer Retention Prediction
 
-## 1. Overview
+## 1. Introduction
 
 * Forecasted the probability of a consumer choosing our Stage 2 (infant) product with 87.7% accuracy.
 * Collected approximately 2k records from the customer data platform and a series of consumer surveys.
@@ -66,35 +66,35 @@ Final clean data (the dataframe is transposed in order to be better displayed):
 
 The below visualizations will follow a segment analysis (our Stage 2 product user group vs non-user group)
 
-Previous Brand:
+Previous Brand (behavioral):
 
 <img width="1115" alt="pre brand 3" src="https://user-images.githubusercontent.com/64850893/155889095-575b5a70-d3e2-4390-b735-14274bf40868.png">
 
 * On the left-hand side, for the non-MJN Stage 2 consumers, 34.6% of them used Nestle Stage 1 as their previous brand. 
 * On the right-hand side, within the MJN Stage 2 user group, 68.8% selected MJN Stage 1 as their previous brand.
 
-Hospital Zone & Province:
+Hospital Zone & Province (demographic):
 
 <img width="1019" alt="hos_pro" src="https://user-images.githubusercontent.com/64850893/155888337-731406ab-a5a7-4a1a-8239-8aebdd67ac29.png">
 
 * The left graph reads a notable lift in terms of the percentage of MJN hospital zone in the MJN Stage 2 user group, compared to the non-user group (72% vs 58%). 
 * There isn't a significant difference regarding the province distribution percentage between the MJN Stage 2 user group and the non-user group, which could mean that this feature is less critical in the predictive model.
 
-Education & Number of Children:
+Education & Number of Children (demographic):
 
 <img width="1019" alt="edu_numofchild" src="https://user-images.githubusercontent.com/64850893/155888499-b4356f87-ae46-41a1-b530-2ac497b07330.png">
 
 * According to the left plot, the overall educational status is higher within the MJN user group.​
 * The distribution of number of children between the user and the non-user group is similar.
 
-Enrollment Type & Enrollment Time by Stage:
+Enrollment Type & Enrollment Time by Stage (behavioral):
 
 <img width="1115" alt="enroll_type_and_age2" src="https://user-images.githubusercontent.com/64850893/155889002-d5a66a9d-595c-403d-83e3-a70f7ad0893c.png">
 
 * The proportion of "self-enrolled" consumers is greater in the user group compared to the non-user group (90% vs 79%).
 * Consumers who enrolled in "Stage 0" (prenatally) take up a higher percentage in the non-user group, while those enrolled in "Stage 1" (0-6 months) account for a larger proportion in the user group. 
 
-Email OR, CTR & Coupon Redemption Rate:
+Email OR, CTR & Coupon Redemption Rate (behavioral):
 
 <img width="1115" alt="email_coupon2" src="https://user-images.githubusercontent.com/64850893/155889123-55cc7f3c-d2c3-4de2-8554-b9bb41b6c192.png">
 
@@ -137,5 +137,5 @@ Email OR, CTR & Coupon Redemption Rate:
 
 ## 10. Next Steps
  
-* 1. Modify the output and input variables to tailor other business use cases.
-* 2. More experimentation in terms of variables and models.
+* Modify the output and input variables to tailor other business use cases.
+* More experimentation in terms of variables and models.
