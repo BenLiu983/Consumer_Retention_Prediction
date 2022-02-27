@@ -54,13 +54,15 @@ Final clean data (the dataframe is transposed in order to be better displayed):
 
 <img width="898" alt="dataset1_2" src="https://user-images.githubusercontent.com/64850893/155887825-7c6175c5-208b-414c-b3bb-3fb6f66df6fc.png">
 
-### 7.1 Ouput variables (MJN - 1, others - 0):
+## 7. EDA
+
+### 7.1 Ouput Variables (MJN - 1, others - 0):
 
 <img width="989" alt="stage 2 brand 4" src="https://user-images.githubusercontent.com/64850893/155889230-1b53cca2-0e6b-477d-b9ff-a6c5efaf9112.png">
 
 * Will oversample in the next session because of the imbalanced dataset.
 
-### 7.2 Input variables:
+### 7.2 Input Variables:
 
 The below visualizations will follow a segment analysis (our Stage 2 product user group vs non-user group)
 
