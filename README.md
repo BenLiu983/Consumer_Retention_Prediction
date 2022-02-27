@@ -100,3 +100,43 @@ Email OR, CTR & Coupon Redemption Rate:
 
 * In terms of engagement for the "Prenatal" and "Newborn" emails, the OR and CTR in the user group are drastically higher.
 * Similarly, regarding the "Stage 1" coupon performance, the redemption rate is substantially greater in the user group.
+
+
+## 8. Modeling
+
+### 8.1 Procedure
+
+* Train-test-split
+* Cross validation
+* Oversampling
+* Machine learning algorithms (Logistic Regression, Random Forest)
+* GridSearchCV
+
+### 8.2 Model performance:
+
+<img width="1011" alt="model_sum" src="https://user-images.githubusercontent.com/64850893/155891672-6e74397d-6133-4c9e-966d-d56be9b4a38c.png">
+
+* Considering the prediction accuracy as well as the model simplicity, Logistic Regression in Case 2 would be the optimal model, since it is more straightforward to interpret, with relevantly high prediction accuracy.
+
+### 8.3 Confusion Matrix (Logistic Regression): 
+
+<img width="470" alt="cm_git" src="https://user-images.githubusercontent.com/64850893/155891735-bcfcc378-3bc3-4f0b-9d32-8691ab1ed777.png">
+
+### 8.4 Feature Importance (Logistic Regression): 
+
+<img width="921" alt="lr fea c2" src="https://user-images.githubusercontent.com/64850893/155887997-5a75e3d5-f43c-4752-b055-c1db284e5c3c.png">
+
+* Positive features – previous brand as MJN, negative features – previous brand as other brands.
+* If the previous brand is "Abbott Specialty", it plays a positive impact on current MJN stage 2 brand choice.
+* Number of children is negatively influencing the MJN stage 2 brand selection .
+
+## 9. Conclusion
+
+* Drive MFB members to become Stage 1 users, due to the fact that the previous brand is a primary indicator.
+* Maintain/boost the quantity/quality of email campaigns, since the email performance is an essential driver.
+* Conduct experimentation to market users with only 1 child, because this metric negatively impact the outcome.
+
+## 10. Next Steps
+ 
+* 1. Modify the output and input variables to tailor other business use cases.
+* 2. More experimentation in terms of variables and models.
