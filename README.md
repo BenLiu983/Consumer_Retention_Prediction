@@ -58,7 +58,7 @@ Final Clean Data (the dataframe is transposed in order to be better displayed):
 
 ### 7.1 Ouput variables (MJN - 1, others - 0):
 
-<img width="989" alt="stage 2 brand 3" src="https://user-images.githubusercontent.com/64850893/155889170-166bf1b3-e780-45fb-83ee-00f4b2c931b1.png">
+<img width="989" alt="stage 2 brand 4" src="https://user-images.githubusercontent.com/64850893/155889230-1b53cca2-0e6b-477d-b9ff-a6c5efaf9112.png">
 
 * Will upsample in the next session due to the imbalanced dataset.
 
