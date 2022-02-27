@@ -68,7 +68,7 @@ The below visualizations will follow a segment analysis (our Stage 2 product use
 
 Previous Brand:
 
-<img width="1076" alt="pre brand 2" src="https://user-images.githubusercontent.com/64850893/155888144-afee7570-a637-4b3b-bb8b-bc58f799cedc.png">
+<img width="1115" alt="pre brand 3" src="https://user-images.githubusercontent.com/64850893/155889095-575b5a70-d3e2-4390-b735-14274bf40868.png">
 
 * On the left-hand side, for the non-MJN Stage 2 consumers, 34.6% of them used Nestle Stage 1 as their previous brand. 
 * On the right-hand side, within the MJN Stage 2 users group, 68.8% selected MJN as their previous brand.
@@ -96,7 +96,7 @@ Enrollment Type & Enrollment Time by Stage:
 
 Email OR, CTR & Coupon Redemption Rate:
 
-<img width="1115" alt="email_coupon" src="https://user-images.githubusercontent.com/64850893/155888901-cf22b060-cc30-4d23-b6b9-264d0d1cd360.png">
+<img width="1115" alt="email_coupon2" src="https://user-images.githubusercontent.com/64850893/155889123-55cc7f3c-d2c3-4de2-8554-b9bb41b6c192.png">
 
 * In terms of engagement for the "Prenatal" and "Newborn" emails, the OR and CTR in the user group are drastically higher.
 * Similarly, regarding the "Stage 1" coupon performance, the redemption rate is substantially greater in the user group.
