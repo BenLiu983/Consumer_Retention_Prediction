@@ -32,9 +32,9 @@ The samples are collected from the customer data plarform and a set of surveys, 
 
 * Independent variables: 
 
-** Behavioral variables: previous brand, Email OR, CTR, coupon redemption rate, enrollment type, enrollment age.
+*.   Behavioral variables: previous brand, Email OR, CTR, coupon redemption rate, enrollment type, enrollment age.
 
-** Demographic variables: province, hospital zone, educational status, number of children.​
+*.   Demographic variables: province, hospital zone, educational status, number of children.​
 
 * Machine Learning Models: Logistic Regression, Random Forest.​
 
